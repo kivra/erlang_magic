@@ -1,3 +1,3 @@
-PROJECT = erlang_magic
+PROJECT = emagic
 
 include erlang.mk
